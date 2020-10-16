@@ -1,7 +1,7 @@
 //自己实现字符串拷贝函数
 char* StrCpy(char* src)
 {
-//1、计算src的长度 len
+1、计算src的长度 len
 
 2、用malloc申请长度为 len+1的内存空间
 
